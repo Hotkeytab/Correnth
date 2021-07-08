@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright 2015 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+
+  <color name="control_background">#cc4285f4</color>
+  #FFE5B4
+  <color name="seconddecathlon">#FFE5B4</color>
+
+  <color name="bleudecatthlon">#0182c4</color>
+  <color name="top">#980000</color>
+  <color name="color_top">#980000</color>
+  <color name="color_neck">#ff0000</color>
+  <color name="color_nose">#cc4285f4</color>
+  <color name="color_left_eye">#cc4285f4</color>
+  <color name="color_right_eye">#cc4285f4</color>
+  <color name="color_left_ear">#cc4285f4</color>
+  <color name="color_right_ear">#cc4285f4</color>
+  <color name="yellow">#FFFF00</color>
+  <color name="green">#00D100</color>
+
+  #00D100
+
+
+  <color name="color_l_shoulder">#ff9d00</color>
+  <color name="color_l_elbow">#e8e84a</color>
+  <color name="color_l_wrist">#87fd00</color>
+  <color name="color_l_hip">#00ac0b</color>
+  <color name="color_l_knee">#01ffe1</color>
+  <color name="color_l_ankle">#2169f9</color>
+
+  <color name="color_r_shoulder">#ad48f5</color>
+  <color name="color_r_elbow">#f700ff</color>
+  <color name="color_r_wrist">#ff0000</color>
+  <color name="color_r_hip">#0090ff</color>
+  <color name="color_r_knee">#268b01</color>
+  <color name="color_r_ankle">#ff6a4d</color>
+  <color name="color_background">#be9268</color>
+
+  <color name="white">#fff</color>
+  <color name="black">#000</color>
+
+  <color name="color_primary">#ffa800</color>
+  <color name="color_primary_dark">#ff6f00</color>
+  <color name="color_accent">#425066</color>
+  <color name="tfe_semi_transparent">#66000000</color>
+
+  <color name="contentBodyColor">#FCFCFC</color>
+  <color name="contentTextColor">#020000</color>
+  <color name="miniTitleColor">#6F6A6A</color>
+  <color name="bottomNavigationBackground">#F7F7F7</color>
+  <color name="contentStatusBar">#f8cbb3</color>
+  <color name="whiteBodyColor">#FCFCFC</color>
+  <color name="frutorial_title">#4c4c4c</color>
+  <color name="whiteTextColor">#fff</color>
+
+
+</resources>

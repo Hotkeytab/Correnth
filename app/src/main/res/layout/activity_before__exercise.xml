@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/bleudecatthlon"
+    tools:context=".Activities.Before_Exercise">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/photoplanche"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/plank">
+
+        </ImageView>
+
+        <TextView
+
+            android:id="@+id/Annonce_EX"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Prennez la position Planche !"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+            android:textColor="#FBFBFB"
+            app:autoSizeTextType="uniform" />
+
+        <TextView
+
+            android:id="@+id/compte_re"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FBFBFB"
+            app:autoSizeTextType="uniform"
+            android:gravity="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+
+
+            android:text="L'excercice va commencer dans">
+
+        </TextView>
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
